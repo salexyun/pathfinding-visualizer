@@ -6,7 +6,7 @@ Many artificial intelligence (AI) problems can be abstracted into the problem of
 - E.g., the agent is in one state; it has a set of deterministic actions it can carry out and wants to get to a goal state.
 
 ## Purpose
-The aim of this proejct is to review pathfinding algorithms and implement them in Python. I plan on adding a GUI and visualization demo in the near future.
+The aim of this proejct is to review pathfinding algorithms and implement them in Python.
 
 ### Notes
 - Evaluating performance
